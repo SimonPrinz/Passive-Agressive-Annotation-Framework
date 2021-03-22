@@ -8,6 +8,7 @@
         <Copyright>Simon Prinz</Copyright>
         <PackageProjectUrl>https://github.com/SimonPrinz/Passive-Agressive-Annotation-Framework</PackageProjectUrl>
         <RepositoryUrl>https://github.com/SimonPrinz/Passive-Agressive-Annotation-Framework</RepositoryUrl>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
 </Project>
