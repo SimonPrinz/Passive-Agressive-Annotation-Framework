@@ -9,6 +9,7 @@
         <RepositoryUrl>https://github.com/SimonPrinz/Passive-Agressive-Annotation-Framework</RepositoryUrl>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <TargetFrameworks>net5.0;netstandard2.0</TargetFrameworks>
+        <PackageLicenseUrl>https://github.com/SimonPrinz/Passive-Agressive-Annotation-Framework/blob/main/LICENSE</PackageLicenseUrl>
     </PropertyGroup>
 
 </Project>
