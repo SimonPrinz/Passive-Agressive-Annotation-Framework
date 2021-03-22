@@ -1,7 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net5.0</TargetFramework>
         <Title>Passive Aggressive Annotation Framework</Title>
         <Authors>Simon Prinz</Authors>
         <Description>The Passive Aggressive Annotation Framework (PAAF) provides a set of type safe annotations that developers can use to express passive-agressive statements; the framework is provided as a type safe alternative to comments.</Description>
@@ -9,6 +8,7 @@
         <PackageProjectUrl>https://github.com/SimonPrinz/Passive-Agressive-Annotation-Framework</PackageProjectUrl>
         <RepositoryUrl>https://github.com/SimonPrinz/Passive-Agressive-Annotation-Framework</RepositoryUrl>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <TargetFrameworks>net5.0;netstandard2.0</TargetFrameworks>
     </PropertyGroup>
 
 </Project>
